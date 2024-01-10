@@ -1,14 +1,8 @@
-# How to draw Kirby
+# How to draw Kirby | Recreation with Turtle Graphics Library
 
-HowtodrawKirby.py Is a python file that uses a python library (turtle) to draw kirby.
-
-It is a type of recreation of the Kirby's Adventure (NES) Opening Scene, in Python library Turtle.
-<p align="center">
-<img src="https://camo.githubusercontent.com/2418cd45aaf17b0a6fed6d9356809b205385a7f39222cb28492a98376c82d0d6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6b794d4b61462d4e6e7a6741414141432f6b697262792d6b69726279732d616476656e747572652e676966">
-</p>
-
-Was not one of my best coding experiences, but it was the first I ever did, so far to a first project it was cool for doing it
+Based on the opening of **Kirby's Adventure [NES]**, This was my ever first programming 'project'. I used my knowledges in Turtle Graphics, in the time for making the graphics, as you can see here is a comparison between the original __(Left)__ and my version __(Right)__. As a first experience I think is a good start.
 
 <p align="center">
+<img  height="422px" src="https://qph.cf2.quoracdn.net/main-qimg-a51311520ef471decf1a94ce707cd927">
 <img src="./KirbyPython.png">
 </p>
