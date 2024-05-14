@@ -1,0 +1,25 @@
+_______________________________________________________________
+  _______  _         _______             _______              
+ |__   __|(_)       |__   __|           |__   __|             
+    | |    _   ___     | |  __ _   ___     | |  ___    ___    
+    | |   | | / __|    | | / _` | / __|    | | / _ \  / _ \   
+    | |   | || (__     | || (_| || (__     | || (_) ||  __/ _ 
+    |_|   |_| \___|    |_| \__,_| \___|    |_| \___/  \___|(_)
+_______________________________________________________________
+
+For playing this you need to know a few instructions.
+   
+   1. For putting a X or a O in the hash, you only need to type
+   the number of the given square example.
+
+   1 | 2 | 3 
+   4 | 5 | 6 
+   7 | 8 | 9 
+
+   So for putting a X in the middle you will only type '5', so 
+   the result is:
+   
+   1 | 2 | 3  
+   4 | X | 6  
+   7 | 8 | 9 
+     
